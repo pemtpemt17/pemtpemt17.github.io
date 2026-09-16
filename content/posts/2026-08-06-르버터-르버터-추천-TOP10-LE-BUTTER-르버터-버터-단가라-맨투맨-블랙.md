@@ -1,13 +1,14 @@
 ---
-title: "르버터 추천 TOP10 — [LE BUTTER 르버터] 버터 단가라 맨투맨 블랙"
+title: "르버터 추천 TOP10 — 2026년 9월 기준"
 date: 2026-08-06T16:25:15+09:00
+lastmod: 2026-09-17
 draft: false
 categories: ["shopping"]
 tags: ["Top10", "shopping", "르버터"]
 keywords: ["르버터", "Top10", "shopping"]
 author: "pemtpemt17"
-description: "이 글에서는 르버터 베스트셀러 10개를 한눈에 비교할 수 있도록 정리했습니다. 트렌디함과 편안함을 동시에 선사하는 '르버터'는 일상에 특별한 감각을 더해주는 브랜드입니다. 부드러운 소재와 세련된 디자인으로 어떤 스타일에도 자연스럽게 어우러지며, 높은 활용도로…"
-summary: "이 글에서는 르버터 베스트셀러 10개를 한눈에 비교할 수 있도록 정리했습니다. 트렌디함과 편안함을 동시에 선사하는 '르버터'는 일상에 특별한 감각을 더해주는 브랜드입니다. 부드러운 소재와 세련된 디자인으로 어떤 스타일에도 자연스럽게 어우러지며, 높은 활용도로…"
+description: "르버터 추천 TOP10 (2026년 9월). 가격·평점·로켓배송 비교와 구매 전 체크리스트까지 정리했습니다."
+summary: "르버터 추천 TOP10 (2026년 9월). 가격·평점·로켓배송 비교와 구매 전 체크리스트까지 정리했습니다."
 cover:
   image: "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/bbfe/492b3c67e26728fff80e79656db0ac25bcb0b425da73b81aaa0b35699075.jpeg"
   alt: "르버터 추천 TOP10 — [LE BUTTER 르버터] 버터 단가라 맨투맨 블랙"
