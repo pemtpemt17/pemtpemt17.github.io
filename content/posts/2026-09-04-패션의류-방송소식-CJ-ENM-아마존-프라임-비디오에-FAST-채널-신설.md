@@ -13,6 +13,9 @@ cover:
   alt: "[방송소식] CJ ENM, 美 아마존 프라임 비디오에 FAST 채널 신설"
   relative: false
 images: ["https://img.yna.co.kr/etc/inner/KR/2026/09/04/AKR20260904157300005_01_i_P2.jpg"]
+robotsNoIndex: true
+sitemap:
+  disable: true
 ---
 
 <p><img src="https://img.yna.co.kr/etc/inner/KR/2026/09/04/AKR20260904157300005_01_i_P2.jpg" alt="[방송소식] CJ ENM, 美 아마존 프라임 비디오에 FAST 채널 신설" style="max-width:100%;border-radius:8px;"></p>
